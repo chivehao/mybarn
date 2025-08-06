@@ -32,4 +32,4 @@ My barn for count the money and grain.
 - 账户
 - 账单
 - 统计
-- 关于
+- 我的
