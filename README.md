@@ -25,3 +25,19 @@ My barn for count the money and grain.
 - 附件：账单附带的文件，比如图片或者视频或者文档等
 - 预算：针对一个时间段的支出计划金额
 - 目标：针对一个时间段的对收入支出的目标计划
+
+
+
+## 编译环境
+```text
+[√] Flutter (Channel stable, 3.29.2, on Microsoft Windows [版本 10.0.26100.4652], locale zh-CN)
+[√] Windows Version (11 家庭中文版 64-bit, 24H2, 2009)
+[√] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
+[√] Chrome - develop for the web
+[√] Visual Studio - develop Windows apps (Visual Studio Community 2022 17.12.4)
+[√] Android Studio (version 2023.3)
+[√] IntelliJ IDEA Community Edition (version 2024.3)
+[√] VS Code (version 1.102.3)
+[√] Connected device (3 available)
+[√] Network resources
+```
