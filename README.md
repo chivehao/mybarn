@@ -41,3 +41,10 @@ My barn for count the money and grain.
 [√] Connected device (3 available)
 [√] Network resources
 ```
+## 页面
+
+- 首页
+- 账户
+- 账单
+- 统计
+- 我的
