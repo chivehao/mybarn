@@ -43,8 +43,11 @@ My barn for count the money and grain.
 ```
 ## 页面
 
-- 首页
-- 账户
+- 首页：
 - 账单
 - 统计
 - 我的
+    - 账户
+    - 预算
+    - 存钱
+    - 其它
